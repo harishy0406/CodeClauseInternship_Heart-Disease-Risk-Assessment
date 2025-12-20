@@ -145,7 +145,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Harish Y**
+**Harish Gautham**
 
 - GitHub: [@harishy0406](https://github.com/harishy0406)
 
