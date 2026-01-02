@@ -5,7 +5,6 @@ import numpy as np
 import pandas as pd
 
 app = Flask(__name__)
-
 # Load model and metadata
 MODEL_PATH = 'models/heart_disease_model.pkl'
 METADATA_PATH = 'models/model_metadata.pkl'
