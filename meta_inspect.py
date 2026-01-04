@@ -9,3 +9,8 @@ if te is not None:
         print('classes:', te.classes_)
     except Exception as e:
         print('target_encoder has no classes_ or error:', e)
+
+"""    try:
+        print('classes:', te.classes_)
+    except Exception as e:
+        print('target_encoder has no classes_ or error:', e) """
